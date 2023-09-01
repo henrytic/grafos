@@ -8,7 +8,7 @@ class Nodo {
         this.conexiones.push(destino);
     }
 }
-
+//tic
 class Grafo {
     constructor() {
         this.nodos = new Map();
